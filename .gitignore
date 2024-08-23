@@ -1,0 +1,10 @@
+# Ignorar arquivos temporários do Visual Studio
+*.vs
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignorar arquivos de build
+bin/
+obj/
